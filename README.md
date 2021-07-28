@@ -5,4 +5,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vcjpierre@gmail.com)](mailto:vcjpierre@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCMpSVCqfvpJyVK4Z3UEGBHQ)](https://www.youtube.com/channel/UCMpSVCqfvpJyVK4Z3UEGBHQ)
 
-Hi, I'm [Jean Pierre](https://jeanpierrevelez.com), a self-taught frontend developer from Santa Cruz, Bolivia 👨‍💻
+Hi, I'm [Jean Pierre](https://jeanpierrevelez.com), a self-taught developer from Santa Cruz, Bolivia 👨‍💻
